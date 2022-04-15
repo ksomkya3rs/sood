@@ -43,7 +43,7 @@
         "PING_PIC": {
             "description": "ضع هنا رابط تلقراف الصورة الي تطلع بامر بنق ",
             "required": true
-            
+            "value": "https://telegra.ph/file/75c6ec6f13bd3829d7939.jpg"
         },
         "THUMB_PIC": {
             "description": "ضع هنا رابط تلقراف الصورة الي تطلع بامر تشغيل ",
