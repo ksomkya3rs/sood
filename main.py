@@ -5,7 +5,7 @@ from MusicTelethon.التشغيل import arq
 async def main():
     await call_py.start()
     print("""    ------------------
-   | البوت يعمل بجاح الآن   . ! |
+   | البوت يعمل بجاح الآن ريبورتر  . ! |
     ------------------"""    )
     await idle()
     await arq.close()
