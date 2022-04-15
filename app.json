@@ -21,7 +21,7 @@
         "PING_PIC": {
             "description": "العلامه التي تضعها قبل اسم الامر مثل ( $ • -) تستطيع تغييرها ",
             "required": false,
-            "value": "."
+            "value": "https://telegra.ph/file/e4fe4a1fd3c0c80e29da3.jpg"
         },
         "THUMB_PIC": {
             "description": "العلامه التي تضعها قبل اسم الامر مثل ( $ • -) تستطيع تغييرها ",
