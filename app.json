@@ -1,7 +1,7 @@
 {
-    "name": "- Music Bot",
+    "name": "- سيلفا الاك ميوزك",
     "description": "- يوزر بوت اغاني في مكالمات .",
-    "logo": "https://telegra.ph/file/e4fe4a1fd3c0c80e29da3.jpg",
+    "logo": "https://telegra.ph/file/75c6ec6f13bd3829d7939.jpg",
     "keywords": [
         "Telegram",
         "MusicPlayer",
@@ -21,12 +21,12 @@
         "PING_PIC": {
             "description": "لا تغير ",
             "required": false,
-            "value": "https://telegra.ph/file/e4fe4a1fd3c0c80e29da3.jpg"
+            "value": "https://telegra.ph/file/75c6ec6f13bd3829d7939.jpg"
         },
         "THUMB_PIC": {
             "description": "العلامه التي تضعها قبل اسم الامر مثل ( $ • -) تستطيع تغييرها ",
             "required": false,
-            "value": "https://telegra.ph/file/e4fe4a1fd3c0c80e29da3.jpg"
+            "value": "https://telegra.ph/file/75c6ec6f13bd3829d7939.jpg"
         },
         "HNDLR": {
             "description": "العلامه التي تضعها قبل اسم الامر مثل ( $ • -) تستطيع تغييرها ",
