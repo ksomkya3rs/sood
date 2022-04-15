@@ -23,6 +23,11 @@
             "required": false,
             "value": "."
         },
+        "THUMB_PIC": {
+            "description": "العلامه التي تضعها قبل اسم الامر مثل ( $ • -) تستطيع تغييرها ",
+            "required": false,
+            "value": "."
+        },
         "API_HASH": {
             "description": "هنا ضع الايبي هاش",
             "required": true
