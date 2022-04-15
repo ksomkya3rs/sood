@@ -46,7 +46,7 @@
             "required": true
             },
         "SUDO_USERS": {
-            "description": "هنا ضع ايدي حسابك كمطور للبوت بمكنك وضع اكثر من شخص بوضع ايدي المستخدم",
+            "description": "هنا ضع ايدي حسابك كمطور للبوت ",
             "required": true
 
         }        
