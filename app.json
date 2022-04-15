@@ -45,10 +45,6 @@
             "description": "ضع هنا اسم حساب المالك (حسابك الاساسي) ",
             "required": true
             },
-        "HNDLR": {
-            "description": "ضع هنا رابط تلقراف الصورة الي تطلع بامر بنق ",
-            "required": true
-            },
         "SUDO_USERS": {
             "description": "ضع هنا رابط تلقراف الصورة الي تطلع بامر تشغيل ",
             "required": true
