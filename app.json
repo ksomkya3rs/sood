@@ -1,17 +1,17 @@
 {
-    "name": "- Music Bot",
-    "description": "- يوزر بوت اغاني في مكالمات .",
-    "logo": "https://telegra.ph/file/e4fe4a1fd3c0c80e29da3.jpg",
+    "name": "سيلفا الاك ميوزك",
+    "description": "⿻↬──────@SO_SELVA للمعرفة تحديثات تابعوا قناتنا معرف قناتنا",
+    "logo": "https://telegra.ph/file/75c6ec6f13bd3829d7939.jpg",
     "keywords": [
         "Telegram",
         "MusicPlayer",
         "sython",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/yddde/musictelethon",
+    "repository": "https://github.com/Mrlido99/SelvaMusic",
     "env": {
         "SESSION": {
-            "description": "هنا ضع كود البايروقرام",
+            "description": "هنا ضع كود البايروجرام",
             "required": true
         },
         "API_ID": {
@@ -33,7 +33,7 @@
         
         },
         "OWNER": {
-            "description": "معرف حساب المالك بدون علامه @ مثال : ZDDDU",
+            "description": "معرف حساب مطور بدون علامه @ مثال : J0KER7x ",
             "required": true            
             },
         "OWNER_NAME": {
@@ -41,12 +41,14 @@
             "required": true
             },
         "PING_PIC": {
-            "description": "ضع هنا رابط تلقراف الصورة الي تطلع بامر بنق ",
+            "description": "لا تغيـرها ابدا.",
             "required": true
+            "value": "https://telegra.ph/file/75c6ec6f13bd3829d7939.jpg"
             },
         "THUMB_PIC": {
-            "description": "ضع هنا رابط تلقراف الصورة الي تطلع بامر تشغيل ",
+            "description": "لا تغيـرها ابدا.",
             "required": true
+            "value": "https://telegra.ph/file/75c6ec6f13bd3829d7939.jpg"
 
         }        
     },
