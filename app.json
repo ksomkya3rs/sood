@@ -28,6 +28,11 @@
             "required": false,
             "value": "https://telegra.ph/file/e4fe4a1fd3c0c80e29da3.jpg"
         },
+        "HNDLR": {
+            "description": "العلامه التي تضعها قبل اسم الامر مثل ( $ • -) تستطيع تغييرها ",
+            "required": false,
+            "value": "."
+        },
         "API_HASH": {
             "description": "هنا ضع الايبي هاش",
             "required": true
