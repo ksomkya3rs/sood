@@ -1,6 +1,6 @@
 {
     "name": "- سيلفا الاك ميوزك",
-    "description": "- يوزر بوت اغاني في مكالمات .",
+    "description": "-⿻↬──────@SO_SELVA للمعرفة تحديثات تابعوا قناتنا معرف قناتنا",
     "logo": "https://telegra.ph/file/75c6ec6f13bd3829d7939.jpg",
     "keywords": [
         "Telegram",
@@ -19,12 +19,12 @@
             "required": true
         },
         "PING_PIC": {
-            "description": "لا تغير ",
+            "description": "لا تغيـرها ابدا. ",
             "required": false,
             "value": "https://telegra.ph/file/75c6ec6f13bd3829d7939.jpg"
         },
         "THUMB_PIC": {
-            "description": "العلامه التي تضعها قبل اسم الامر مثل ( $ • -) تستطيع تغييرها ",
+            "description": "لا تغيـرها ابدا. ",
             "required": false,
             "value": "https://telegra.ph/file/75c6ec6f13bd3829d7939.jpg"
         },
