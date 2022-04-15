@@ -8,10 +8,10 @@
         "sython",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/yddde/musictelethon",
+    "repository": "https://github.com/Mrlido99/SelvaMusic",
     "env": {
         "SESSION": {
-            "description": "هنا ضع كود البايروقرام",
+            "description": "هنا ضع كود البايروجرام",
             "required": true
         },
         "API_ID": {
@@ -38,15 +38,15 @@
             "required": true
         },
         "OWNER": {
-            "description": "معرف حساب المالك بدون علامه @ مثال : ZDDDU",
+            "description": "معرف حساب المالك بدون علامه @ مثال : J0KER7x ",
             "required": true            
             },
         "OWNER_NAME": {
-            "description": "ضع هنا اسم حساب المالك (حسابك الاساسي) ",
+            "description": "ضع هنا اسم حساب  (حسابك الاساسي) ",
             "required": true
             },
         "SUDO_USERS": {
-            "description": "ضع هنا رابط تلقراف الصورة الي تطلع بامر تشغيل ",
+            "description": "هنا ضع ايدي حسابك كمطور للبوت بمكنك وضع اكثر من شخص بوضع ايدي المستخدم",
             "required": true
 
         }        
