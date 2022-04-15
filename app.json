@@ -19,11 +19,6 @@
             "required": true
         },
         "PING_PIC": {
-            "description": "ضع هنا رابط تلقراف الصورة الي تطلع بامر بنق ",
-            "required": true
-            "value": "https://telegra.ph/file/75c6ec6f13bd3829d7939.jpg"
-        },
-        "HNDLR": {
             "description": "العلامه التي تضعها قبل اسم الامر مثل ( $ • -) تستطيع تغييرها ",
             "required": false,
             "value": "."
@@ -43,6 +38,10 @@
             },
         "OWNER_NAME": {
             "description": "ضع هنا اسم حساب المالك (حسابك الاساسي) ",
+            "required": true
+            },
+        "HNDLR": {
+            "description": "ضع هنا رابط تلقراف الصورة الي تطلع بامر بنق ",
             "required": true
             },
         "THUMB_PIC": {
