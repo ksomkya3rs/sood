@@ -19,7 +19,7 @@
             "required": true
         },
         "PING_PIC": {
-            "description": "العلامه التي تضعها قبل اسم الامر مثل ( $ • -) تستطيع تغييرها ",
+            "description": "لا تغير ",
             "required": false,
             "value": "https://telegra.ph/file/e4fe4a1fd3c0c80e29da3.jpg"
         },
