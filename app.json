@@ -48,7 +48,6 @@
             "description": "ضع هنا رابط تلقراف الصورة الي تطلع بامر تشغيل ",
             "required": true
             "value": "https://telegra.ph/file/75c6ec6f13bd3829d7939.jpg"
-
         }        
     },
     "addons": [],
