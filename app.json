@@ -32,6 +32,11 @@
             "required": true
         
         },
+       "PING_PIC": {
+            "description": "ضع هنا رابط تلقراف الصورة الي تطلع بامر بنق ",
+            "required": true
+            "value": "https://telegra.ph/file/75c6ec6f13bd3829d7939.jpg"
+        },
         "OWNER": {
             "description": "معرف حساب المالك بدون علامه @ مثال : ZDDDU",
             "required": true            
@@ -40,11 +45,6 @@
             "description": "ضع هنا اسم حساب المالك (حسابك الاساسي) ",
             "required": true
             },
-        "PING_PIC": {
-            "description": "ضع هنا رابط تلقراف الصورة الي تطلع بامر بنق ",
-            "required": true
-            "value": "https://telegra.ph/file/75c6ec6f13bd3829d7939.jpg"
-        },
         "THUMB_PIC": {
             "description": "ضع هنا رابط تلقراف الصورة الي تطلع بامر تشغيل ",
             "required": true
