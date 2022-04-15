@@ -49,7 +49,7 @@
             "description": "ضع هنا رابط تلقراف الصورة الي تطلع بامر بنق ",
             "required": true
             },
-        "THUMB_PIC": {
+        "SUDO_USERS": {
             "description": "ضع هنا رابط تلقراف الصورة الي تطلع بامر تشغيل ",
             "required": true
 
